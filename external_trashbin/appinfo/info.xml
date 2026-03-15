@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>external_trashbin</id>
+    <name>External Trashbin</name>
+    <namespace>External_Trashbin</namespace>
+    <description>Nextcloud App to move deleted files on a external local storage to a recycle bin </description>
+    <version>0.0.1</version>
+    <licence>AGPL-3.0-or-later</licence>
+    <author>Manuel Buchner</author>
+    <category>files</category>
+    <bugs>https://github.com/nextcloud/news/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="32" max-version="32" />
+    </dependencies>
+</info>
